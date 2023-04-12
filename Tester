@@ -1,0 +1,3 @@
+while true to
+ loadstring(game:HttpGet("UrlHere",true))();
+end
